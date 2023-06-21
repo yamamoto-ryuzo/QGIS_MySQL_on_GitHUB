@@ -1,4 +1,4 @@
-# QGIS_MySQL_on_GitHUB  
+# QGIS_MySQL  
 GitHUB上にあるMySQLファイルにQGISから接続する機会があったので、その備忘録  
 1. MySQLのインストール  
 　とりあえず下記を参考にインストール  
